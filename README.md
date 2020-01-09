@@ -1,4 +1,4 @@
 # scm_lab1
-lab
+lab dev
 
-Hallo Sansinee Rakniem 6112265
+Hello Sansinee Rakniem 6112265
